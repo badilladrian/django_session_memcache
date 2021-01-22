@@ -1,0 +1,1 @@
+URL -> View -> Model (typically) -> Template
